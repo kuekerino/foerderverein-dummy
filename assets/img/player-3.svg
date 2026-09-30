@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Platzhalter: Spieler Portrait 3">
+  <defs>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#e9ecef"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#101214" stroke-opacity="0.08" stroke-width="20"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#p)"/>
+  <rect x="3" y="3" width="794" height="994" fill="none" stroke="#101214" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#101214">Spieler Portrait 3</text>
+  <text x="50%" y="48%" dy="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#101214" fill-opacity="0.7">800 x 1000 px · Bild hier einfügen</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="Platzhalter: Sponsor Logo 3">
+  <defs>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#ffffff"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#6c757d" stroke-opacity="0.08" stroke-width="20"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#p)"/>
+  <rect x="3" y="3" width="394" height="194" fill="none" stroke="#6c757d" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#6c757d">Sponsor Logo 3</text>
+  <text x="50%" y="48%" dy="22" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6c757d" fill-opacity="0.7">400 x 200 px · Bild hier einfügen</text>
+</svg>

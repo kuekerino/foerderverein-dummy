@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Platzhalter: Teamfoto U21">
+  <defs>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#101214"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#F2B705" stroke-opacity="0.08" stroke-width="20"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#p)"/>
+  <rect x="3" y="3" width="1594" height="894" fill="none" stroke="#F2B705" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="system-ui, sans-serif" font-size="57" font-weight="700" fill="#F2B705">Teamfoto U21</text>
+  <text x="50%" y="48%" dy="65" text-anchor="middle" font-family="system-ui, sans-serif" font-size="38" fill="#F2B705" fill-opacity="0.7">1600 x 900 px · Bild hier einfügen</text>
+</svg>

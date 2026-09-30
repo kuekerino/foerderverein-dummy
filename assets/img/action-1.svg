@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Platzhalter: Spielszene 1">
+  <defs>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#1b1f24"/>
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#ffffff" stroke-opacity="0.08" stroke-width="20"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#p)"/>
+  <rect x="3" y="3" width="1194" height="794" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="12 10"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="system-ui, sans-serif" font-size="42" font-weight="700" fill="#ffffff">Spielszene 1</text>
+  <text x="50%" y="48%" dy="50" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#ffffff" fill-opacity="0.7">1200 x 800 px · Bild hier einfügen</text>
+</svg>
