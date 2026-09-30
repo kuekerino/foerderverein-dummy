@@ -1,5 +1,6 @@
 # Veröffentlicht die statische Seite auf GitHub Pages.
-# Voraussetzung: Repository → Settings → Pages → Source: "GitHub Actions".
+# Aktiviert Pages beim ersten Lauf selbst (enablement: true). Falls das an
+# Berechtigungen scheitert: Settings → Pages → Source: "GitHub Actions" wählen.
 name: Deploy to GitHub Pages
 
 on:
@@ -25,6 +26,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
