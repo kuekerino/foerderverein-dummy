@@ -1,4 +1,4 @@
-/* Förderverein U21 – kleines, abhängigkeitsfreies Skript.
+/* Förderverein U20 – kleines, abhängigkeitsfreies Skript.
    Keine Cookies, kein Storage, keine externen Requests. */
 (function () {
   'use strict';

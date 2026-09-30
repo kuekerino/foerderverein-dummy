@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Förderverein U21 Herren Lacrosse – Stylesheet
+   Förderverein U20 Herren Lacrosse – Stylesheet
    Reines CSS, keine Abhängigkeiten, keine externen Requests.
    Farben in :root anpassen. Die Werte lehnen sich an die Nationalfarben
    (Schwarz / Rot / Gold) an, die der DLaxV im Erscheinungsbild nutzt.
@@ -30,7 +30,7 @@
 
   /* Typografie: Systemschriften (keine Google Fonts, DSGVO-sicher) */
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  --fs-hero: clamp(2rem, 7vw, 5.2rem);
+  --fs-hero: clamp(2rem, 6.4vw, 4.4rem);
   --fs-h2:   clamp(1.9rem, 4vw, 2.8rem);
   --fs-h3:   clamp(1.2rem, 2vw, 1.4rem);
   --fs-body: clamp(1rem, 1.1vw, 1.125rem);
@@ -170,7 +170,8 @@ p  { margin: 0 0 1em; }
     radial-gradient(60% 50% at 80% 10%, rgba(242,183,5,.25), transparent 60%),
     linear-gradient(180deg, rgba(16,18,20,.2) 0%, rgba(16,18,20,.55) 55%, var(--c-black) 100%);
 }
-.hero__content { padding: clamp(5rem, 12vw, 9rem) 0 clamp(3rem, 6vw, 5rem); max-width: 760px; }
+.hero__content { padding: clamp(5rem, 12vw, 9rem) 0 clamp(3rem, 6vw, 5rem); max-width: 1000px; }
+.hero p.lead { max-width: 60ch; }
 .eyebrow {
   display: inline-flex; align-items: center; gap: .6rem;
   font-size: .85rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase;

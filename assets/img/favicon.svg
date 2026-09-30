@@ -12,5 +12,5 @@
   </g>
   <!-- ball -->
   <circle cx="32" cy="42" r="4" fill="#D42A2A"/>
-  <text x="32" y="59" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" font-weight="800" fill="#F2B705">U21</text>
+  <text x="32" y="59" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" font-weight="800" fill="#F2B705">U20</text>
 </svg>

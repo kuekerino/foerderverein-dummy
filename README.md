@@ -1,7 +1,7 @@
-# Förderverein U21 Herren Lacrosse – Landing Page
+# Förderverein U20 Herren Lacrosse – Landing Page
 
 Statische Landing Page (reines HTML, CSS und ein wenig JavaScript) für einen Förderverein
-der männlichen U21-Nationalmannschaft im Deutschen Lacrosse Verband (DLaxV).
+der männlichen U20-Nationalmannschaft im Deutschen Lacrosse Verband (DLaxV).
 
 - Kein Build-Schritt, kein Framework, keine Abhängigkeiten
 - Keine Cookies, kein Tracking, keine externen Schriften (DSGVO-freundlich, kein Cookie-Banner nötig)
