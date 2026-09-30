@@ -67,8 +67,8 @@ Verwendung von Verbandsname und -logo mit dem DLaxV abstimmen.
 1. Repository → **Settings → Pages**
 2. Unter **Build and deployment → Source** die Option **GitHub Actions** wählen
 3. Der Workflow `.github/workflows/pages.yml` läuft bei jedem Push auf `main`
-   (und auf dem Branch `claude/landing-page`) und veröffentlicht die Seite unter
-   `https://<benutzer>.github.io/<repository>/`
+   und veröffentlicht die Seite unter
+   https://kuekerino.github.io/foerderverein-dummy/
 
 Alternative ohne Workflow: Source **Deploy from a branch**, Branch `main`, Ordner `/ (root)`.
 Die Datei `.nojekyll` sorgt dafür, dass GitHub die Dateien unverändert ausliefert.
